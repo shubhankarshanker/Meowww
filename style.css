@@ -54,9 +54,12 @@ marquee{
     margin-left: 50px;
 }
 
-
-
 img{
     height: 60vh;
     width: 75vh;
+}
+
+embed{
+    height: 1vh;
+    width: 1vh;
 }
