@@ -47,12 +47,14 @@ p{
 
 marquee{
     background-color: crimson;
-    animation: move rtl 60000ms infinite;
+    animation: move rtl 60000ms infinite;  
 }
 
 .button{
     margin-left: 50px;
 }
+
+
 
 img{
     height: 60vh;
